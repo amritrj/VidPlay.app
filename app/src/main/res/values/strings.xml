@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VidPlayer</string>
+    <string name="playing_through_local_storage">Playing through local storage</string>
+    <string name="playing_through_url">Playing through URL</string>
+</resources>
